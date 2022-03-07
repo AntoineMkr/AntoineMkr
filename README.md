@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Antoine. 
+I'm a blockchain dev working on Ethereum & Starknet 🦇🔉.
+
+📫 Reach me on Twitter @Meckerrr or Telegram @Flexouille
+
 <!--
 **AntoineMkr/AntoineMkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
